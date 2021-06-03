@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Looking-glass for loyallists, or, The doctrine of the Presbyterians paralell'd with the doctrine ofthe Jesuites</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49152</idno><idno type="EEBO-CITATION">13546423</idno>
+  <idno type="VID">100141</idno>
+  <idno type="EEBO-PROQUEST">2240952683</idno>
+  
+            <idno type="STC">Wing L3020A</idno>
+            <idno type="STC">ESTC R10008</idno>
+            <idno type="OCLC">13546423</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 464:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Looking-glass for loyallists, or, The doctrine of the Presbyterians paralell'd with the doctrine ofthe Jesuites</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Doctrines.</term>
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100141:1"/>
+            <head>
+               <hi>A Looking-Glass for Loyallists:</hi> OR, THE Doctrine of the Presbyterians Paralell'd with the Doctrine of the Jesuites.</head>
+            <p>SINCE the <hi>League of France,</hi> and the <hi>English Covenant</hi> were both made upon Pretence of <hi>Religion,</hi> it's not unworthy our Pains to consider the <hi>Conformity of their Doctrines,</hi> which they employ to maintain, both the <hi>One,</hi> and the <hi>Other;</hi> and how the <hi>Jesuites Maxims</hi> are the Chief Support of the <hi>Covenant.</hi>
+            </p>
+            <p>Both in the <hi>League</hi> and <hi>Covenant,</hi> the People are encouraged to take up Arms against their <hi>King,</hi> by this Opinion of <hi>Cardinal Bellarmine</hi>'s; who teacheth, (<hi>Bellarm. de Con<g ref="char:EOLhyphen"/>cil.</hi> Lib. 2. Cap. 19.) <hi>That in the Kingdoms of Men, the Power of the King comes from the People, because</hi> (he saith) <hi>it's the People that make the King; and that the People do never so transfer that Power over to the King, but they retain it</hi> in Habitu; <hi>so that they may reassume it again, when they please:</hi> Which is also the Judgment of <hi>Navarrus,</hi> whom the <hi>Cardinal</hi> highly extols.</p>
+            <p>And thus the <hi>Author</hi> of <hi>Observations upon the King's Declaration,</hi> who is the Master of the <hi>Sentences</hi> with the <hi>Covenanters,</hi> teacheth us, <hi>That originally the Power is in the People, who are the Fountain and Efficient Cause; and that the Authority is not in the Prince, but Secundarily and Derivatively.</hi> [All these State-Philosophers are full of School-Terms, but little Reason.] And he adds, <hi>That this Au<g ref="char:EOLhyphen"/>thority founded by the People, cannot be dissolved, but by that Power which gave it Constitution:</hi> Which is as much to say, That the People may take away the <hi>King's</hi> Power and Authority when they please.</p>
+            <p>But the <hi>Cardinal</hi> explains himself more clearly in that which before he had written in Covert Terms; saying, (<hi>Lib.</hi> 3. <hi>de Pontis.</hi> Chap. 7.) <hi>That a King</hi> (such as he there describes) <hi>may, yea ought, by the Consent of All, to be deprived of his Authority.</hi>
+            </p>
+            <p>And <hi>Goodman, (pag.</hi> 144. and 149.) <hi>Knox, Layton, Caryl, Gouge, Sedgwick,</hi> and several others, is of the same Opinion, <hi>That Evil Princes ought to be Deposed, and that this alone belongs to the Inferiour Magistrates, to put in Execution.</hi>
+            </p>
+            <p>We learn from Dr. <hi>Charron,</hi> That the <hi>French Leaguers</hi> eluded the Strength of St. <hi>Paul</hi>'s Texts, which forbids the Opposing of Sovereigns, in saying, (in his <hi>Christian Discourse,</hi> about the End of his Book of <hi>Wisdom,) That the Commands had regard only to the State of the Christians of those Times, because they were not then strong enough to make Resistance.</hi>
+            </p>
+            <p>I have shew'd, how <hi>Bellarmin, Buchanane,</hi> and the Champions of the <hi>Covenant,</hi> make use of the same Reasons and Expositions, to maintain their Hellish Designs.</p>
+            <p>But to clear the way, and make it smooth to come to the Deposing of Kings: These two Parties are wont to absolve their Subjects from their Oaths of <hi>Allegiance: Emanuel Sa,</hi> the <hi>Jesuite,</hi> saith; (in <hi>Vice Tyrannus,) That the People may Depose their Prince even after they have sworn perpetual Obedience to Him.</hi>
+            </p>
+            <p>And Mr. <hi>Knox</hi> saith, (<hi>Knox</hi> to <hi>Engl.</hi> and <hi>Scot.</hi> pag. 78.) <hi>That if Princes prove Tyrants, their Subjects are free from their Oaths of Allegiance,</hi> &amp;c.</p>
+            <p>To the Excommunication, and the Deposing the Prince originally, there follows Execution accor<g ref="char:EOLhyphen"/>ding to the Authentick <hi>Bull;</hi> That it's no Homicide, to Kill an Excommunicated Person. The <hi>French League</hi> produces Two Examples in the Persons of their Kings; (<hi>Papa Ʋrban. causa.</hi> 23. <hi>Qu.</hi> 5. <hi>cau. Excommunicatorum. de Jure Regni,</hi> pag. 70.)</p>
+            <p>And this also agrees with the Doctrine of <hi>Buchanan, That Ministers may Excommunicate Princes; and that a King, after he is cast into Hell by Excommunication, is unworthy to live, or to enjoy Life upon Earth.</hi> But observe in passing, the Reformed Churches do not teach, That the <hi>Excommunicatio Major</hi> does cast any Man into Hell; but Excludes them from the Outward Communion of the Visible Church: But in This, as in other Things, <hi>Buchanan</hi> hath shewed himself to be less skilled in <hi>Divinty,</hi> than in <hi>Poetry.</hi>
+            </p>
+            <p>And as for the Doctrine of <hi>King-Killing,</hi> which is a familiar Doctrine amongst the <hi>Jesuites;</hi> They, to lessen their Crime, quote in their Writings (<hi>Jesuita Vapulans,</hi> Chap. 13.) the Passages of <hi>Knox, Buchanan, Goodman,</hi> &amp;c. who, together with Them, teach the same Doctrine.</p>
+            <p>The Author of <hi>Sions Plea</hi> animates the People to War, and to pull down the Bishops; speaking thus, (<hi>Sions Plea,</hi> pag. 240.) <hi>Smite neither Small nor Great, but the Troublers of</hi> Israel; <hi>wound that</hi> Hazael <hi>in the Fifth Rib; yea, if your Father, or your Mother stand in your way, dispatch them also: Pull down the Ensigne of the Dragon, set up the Standard of</hi> Jesus Christ. What! If the Father of the State should stand in your Way, when you are busie in this Holy Cause, must he be dispatched too? No doubt, but they would tread upon him to make way, and would serve the <hi>Son</hi> as they have done the <hi>Father.</hi> 'Tis a point resolved on by the same Author, <hi>They must strike the</hi> Basilisk <hi>Vein; none but That can heal the Pleurisie of State:</hi> Which is much as to say, in good <hi>English,</hi> That they may cut the <hi>King</hi>'s Throat for the Publick Good, which is the very words of those <hi>Jesuits, Guignard</hi> and <hi>Scribanius,</hi> had they not too grosly borrowed their Terms: For, say they, <hi>France is Sick, and we must cut the</hi> Basilisk <hi>Vein, to Heal her:</hi> Which is the very words of the above-mentioned Author, in his Book call'd, <hi>Sions Plea against Prelacy.</hi>
+            </p>
+            <p>Oh rare Flowers of <hi>Diabolical Rhetorick!</hi> Oh the Shame of <hi>Christian Religion!</hi> Is this the Simplicity and Meekness of the <hi>Gospel?</hi> Is this the Way to guide Conscience into the way of Peace, and to set up the Kingdom of <hi>Jesus Christ,</hi> or <hi>Christ</hi> on his Throne? If St. <hi>Paul</hi> were alive, doubtless these Men would even maintain to his Face, That he understood not the Nature of the <hi>Spiritual Kingdom,</hi> when he said, <hi>Rom.</hi> 14.7. <hi>That the Kingdom of God is Righteousness, Peace and Joy in the Holy Ghost;</hi> and when he read this Lesson to the Christians, <hi>Let the Peace of</hi> God <hi>rule in your Hearts, to which Peace ye are all called in one Body.</hi>
+            </p>
+            <p>They would have taught him, That the Kingdom of <hi>Jesus Christ</hi> ought to be set up by the Mur<g ref="char:EOLhyphen"/>thering of Kings, the Destruction of the People, and the Over-throw of States; and would have
+<pb facs="tcp:100141:2"/> sent him to their <hi>Catechiz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (Vid. The</hi> Souldiers Catechism, <hi>Composed for t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> Parliaments. <hi>Army, by</hi> Robert Ram, <hi>Minister; Published by Authority:</hi> pag. 14, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5. <hi>of the</hi> 7th. <hi>Edition)</hi> to be instructed, <hi>That the</hi> Parliament Souldiers <hi>ought not to look upon Ʋs, as their Fellow-Citizens, or their Parents, or their Companions in Religion; but as Enemies to the</hi> Good Old Cause. <hi>And therefore, their Eyes should not pity us, nor their Swords spare us.</hi>
+            </p>
+            <p>These are the words of that Abominable <hi>Catechism,</hi> Published by Authority, for the Use of the <hi>Covenanters Army.</hi> Oh, behold the Principles of Faith, where-with these dull Souls are instructed! Behold the Bread of Life, where-with these Divines feed the Consciences of the poor People! <hi>I have seen in the Prophet of</hi> Hierusalem, <hi>an horrible thing, they committed Adultery, and walk in Lies; they streng<g ref="char:EOLhyphen"/>then also the Hands of evil doers:</hi> Israel, <hi>the Days of thy Visitation are come; thy Prophets are Fools, and thy Men of Revelations are Mad,</hi> Jer. 23.4.</p>
+            <p>To these prodigious Doctrines, I shall joyn that <hi>Aphorism,</hi> in the Book Intituled <hi>Altare Damasc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>num; That all Kings have a Natural Hatred against Christ:</hi> If you will believe this Man, or rather this Monster, every one that Loves <hi>Christ,</hi> must bear an Irreconcileable hatred to all Kings. Was there ever a more Seditious and Hellish Maxime, after such a <hi>Doctrine,</hi> pronounced by an Author of such Account? Let us ask, who hath put Weapons into the Hands of this Superstitious People against their Soveraigne? For these poor miserable People hate the <hi>King,</hi> for the Love of <hi>God;</hi> ye may account him an Enemy of <hi>Christ,</hi> even because He is a <hi>King?</hi>
+            </p>
+            <p>That we may the better discover by what Spirit this Man is led, Observe how he deals with King <hi>James,</hi> of most Glorious Memory; He calls him <hi>Infestissimus Ecclesiae Hostes,</hi> the most Mortal Ene<g ref="char:EOLhyphen"/>my of the Church: Without doubt, those who read this, will Question what Religion this Man was of, who so quallifies that Incomparable <hi>Defender of our Faith?</hi> Who hath so vigorously and sincerely maintained the Truth, that if there were a Christian in the World, who knew not that Great Prince, neither by His Admirable Writings, nor by the Renown of His Piety and Wisdom, and should hear Him call'd the most <hi>Mortal Enemy of the Church,</hi> he might well Imagine, that King <hi>James</hi> had turned <hi>Turk,</hi> and Changed the Churches of His Kingdom into <hi>Mosques,</hi> and sold His <hi>Christian</hi> Subjects for Slaves to the <hi>Moores.</hi>
+            </p>
+            <p>It were to do wrong to the Testimony that himself hath given by the Immortal Monuments of His Religous Wisdom, and by His truly Christian and Fatherly Government, to undertake here to defend Him against so unequal an Adversary; wherein the Injuries spoken of this Excellent Prince, turns to the Ruine, and Perdition of him that spake them; like unto the biteings of the <hi>Weasel</hi> who consumes his Teeth by knawing of Steel?</p>
+            <p>But for the present, These rare <hi>Adages,</hi> which Curse the best of Kings, and <hi>Royalty</hi> in General, are gathered as Choice and Golden <hi>Sentences;</hi> Witness this other, which comes from as great a Liar as himself, who hath this passage, <hi>(Vindiciae, Philadel.) He errs not much, who saith, That there is in all Kings a Mortal Hatred against the Gospel; they will not suffer willingly the King of Kings to govern in their Kingdoms:</hi> Yet he owns <hi>God</hi> hath some amongst the <hi>Kings,</hi> who pertain to him; but very few, it may be One in a Hundered: But since he is upon a Number, instead of counting a Hundred Kings one after another, Let him account only a Hundred Years, without going out of <hi>England;</hi> and, I intreat this good Man to consider, what Kings have Reigned over this Kingdom, within this Hun<g ref="char:EOLhyphen"/>dred Years, and then let him in good earnest tell me, which of them he would leave to <hi>God,</hi> and which he would give to the <hi>Devil:</hi> Let him consider the Piety of Him, whom <hi>God</hi> hath made a <hi>Saint,</hi> and They a <hi>Martyr;</hi> Let them find if they can, in all his Kingdom, a Man more just and Meek, more Temperate and Religious, and let <hi>Envy</hi> and <hi>Rebellion,</hi> who finding nothing to bite at in the Life of this great Monarch, burst a sunder at his Feet, and hide themselves in their own Confusion?</p>
+            <p>I shall but mention one thing more of the <hi>Observator</hi> upon <hi>His Majesties Declaration;</hi> who speak<g ref="char:EOLhyphen"/>ing of all Kings now Reigning, but with a particular Application to His Soveraign, faith; <hi>That to be the delight of Mankind</hi> (as <hi>Titus Vespatian) is now a sordid thing amongst Princes; but to be Tormentors and Executioners of the Publique, to Plot and Contrive the Ruine of their Subjects, which they ought naturally to protect, is now accounted a Work worthy of</hi> Caesar. If Reviling, and speaking reproachful Words a<g ref="char:EOLhyphen"/>gainst the King were Blasphemy, according to the stile of the Civil Law of <hi>Israel,</hi> 1 Kings 21.10. then this Impious Person is a Blasphemer in the Highest degree against the Sacred Majesty of <hi>Kings;</hi> and moreover, exceeding <hi>ridiculous,</hi> as well as <hi>wicked,</hi> to appropriate this Description to His <hi>King,</hi> whose known Piety, Justice and Clemency, deserved rather the Title of <hi>The Delights</hi> of <hi>Man<g ref="char:EOLhyphen"/>kind,</hi> than that Emperour upon whom the Love of the People conferred it?</p>
+            <p>The Lord Rebuke those black Souls, who Curse <hi>God</hi> in the Person of His Anointed; their Sentence is Written, and their Qualities painted out to the Life by St. <hi>Peter,</hi> 2. Pet. 2.10, 11, 12. <hi>Who De<g ref="char:EOLhyphen"/>spise Dominions, presumptious, self-willed; they are not afraid to speak evil of Dignities; where as Angels, which are greater in Power, bring not railing Accusations against them, before the Lord; but these are na<g ref="char:EOLhyphen"/>tural Brute Beasts, made to be taken and destroy'd: speak evil of things, which they understand not, and shall utterly perish in their own Corruption.</hi>
+            </p>
+            <p>I might heap many more passages of the <hi>Presbyterians,</hi> which teach Murther, Rebellion, and Ha<g ref="char:EOLhyphen"/>tred of <hi>Kings;</hi> in which they seem to dispute with the <hi>Jesuits</hi> themselves; to which take this De<g ref="char:EOLhyphen"/>scription of their Devotion: A Seditious Piety, a Factious Religion, which would be Judge of the Consciences of Princes, who abhorr their Religion, because they hate their Government, who make Good Subjects, and Good Christians, to be things incompatible.</p>
+            <p>Whosoever would weary his Patience, and behold how ingenious the <hi>Presbyterians</hi> have been, even to Exercise the patience of <hi>God,</hi> and insult over the Persons and Authority of <hi>Kings,</hi> let them Read their <hi>Sermons,</hi> which were daily Printed by Authority, after they had Preach'd Them before the <hi>House of Commons;</hi> wherein the filthy Torrent of <hi>Seditious Eloquence,</hi> and the Fantasticalness of a Bastard Devotion, were Imploy'd to tear apieces the King, to disfigure him in odious Colours, and stir up the People to all Cruel and Bloody Courses against Him: Out of which might be Col<g ref="char:EOLhyphen"/>lected Thousands of Modern Authorities, in favour of their Wickednesses, which passed from them as Doctrines of <hi>Religion;</hi> from which Hellish Principles, Heaven deliver us. That which I have Ci<g ref="char:EOLhyphen"/>ted out of known Authors, shall suffice to let the World see, with whom we have to do, and that we are called to the Condition of S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Paul,</hi> To <hi>Fight with Beasts.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. S.</hi> in the Year, 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
